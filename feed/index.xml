@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>The Chelsea Project</title>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Building a resilient and self-sufficient public health paradigm via block-level sensing and interventions</description>
+	<lastBuildDate>Tue, 09 Feb 2021 14:15:41 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2</generator>
+	<item>
+		<title>Test Post</title>
+		<link>/2021/02/06/hello-world/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=hello-world</link>
+					<comments>/2021/02/06/hello-world/#respond</comments>
+		
+		<dc:creator><![CDATA[The Chelsea Project]]></dc:creator>
+		<pubDate>Sat, 06 Feb 2021 04:16:15 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=1</guid>
+
+					<description><![CDATA[Content added on a regular basis&#8230;.]]></description>
+										<content:encoded><![CDATA[
+<p>Content added on a regular basis&#8230;.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2021/02/06/hello-world/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
