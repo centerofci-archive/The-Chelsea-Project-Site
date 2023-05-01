@@ -9,8 +9,8 @@
 
 <channel>
 	<title>The Chelsea Project</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="http://localhost:8888/tcpss/feed/" rel="self" type="application/rss+xml" />
+	<link>http://localhost:8888/tcpss/</link>
 	<description>Building a resilient and self-sufficient public health paradigm via block-level sensing and interventions</description>
 	<lastBuildDate>Tue, 09 Feb 2021 14:15:41 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=6.2</generator>
 	<item>
 		<title>Test Post</title>
-		<link>/2021/02/06/hello-world/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=hello-world</link>
-					<comments>/2021/02/06/hello-world/#respond</comments>
+		<link>http://localhost:8888/tcpss/2021/02/06/hello-world/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=hello-world</link>
+					<comments>http://localhost:8888/tcpss/2021/02/06/hello-world/#respond</comments>
 		
 		<dc:creator><![CDATA[The Chelsea Project]]></dc:creator>
 		<pubDate>Sat, 06 Feb 2021 04:16:15 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=1</guid>
+		<guid isPermaLink="false">http://localhost:8888/tcpss/?p=1</guid>
 
 					<description><![CDATA[Content added on a regular basis&#8230;.]]></description>
 										<content:encoded><![CDATA[
 <p>Content added on a regular basis&#8230;.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2021/02/06/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>http://localhost:8888/tcpss/2021/02/06/hello-world/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
