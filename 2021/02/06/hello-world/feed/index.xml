@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Test Post	</title>
-	<atom:link href="http://localhost:8888/tcpss/2021/02/06/hello-world/feed/" rel="self" type="application/rss+xml" />
-	<link>http://localhost:8888/tcpss/2021/02/06/hello-world/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=hello-world</link>
+	<atom:link href="https://centerofci.github.io/The-Chelsea-Project-Site/2021/02/06/hello-world/feed/" rel="self" type="application/rss+xml" />
+	<link>https://centerofci.github.io/The-Chelsea-Project-Site/2021/02/06/hello-world/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=hello-world</link>
 	<description>Building a resilient and self-sufficient public health paradigm via block-level sensing and interventions</description>
 	<lastBuildDate>Tue, 09 Feb 2021 14:15:41 +0000</lastBuildDate>
 	<sy:updatePeriod>
