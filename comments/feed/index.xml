@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	Comments for The Chelsea Project	</title>
-	<atom:link href="https://centerofci.github.io/The-Chelsea-Project-Site/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://centerofci.github.io/The-Chelsea-Project-Site/</link>
+	<atom:link href="https://thechelseaproject.org/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://thechelseaproject.org/</link>
 	<description>Building a resilient and self-sufficient public health paradigm via block-level sensing and interventions</description>
-	<lastBuildDate>Wed, 05 Oct 2022 19:44:25 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 12 May 2023 12:34:08 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.2</generator>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
 </channel>
 </rss>

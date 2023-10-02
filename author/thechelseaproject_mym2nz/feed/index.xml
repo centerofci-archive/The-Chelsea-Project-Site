@@ -9,8 +9,8 @@
 
 <channel>
 	<title>The Chelsea Project, Author at The Chelsea Project</title>
-	<atom:link href="https://centerofci.github.io/The-Chelsea-Project-Site/author/thechelseaproject_mym2nz/feed/" rel="self" type="application/rss+xml" />
-	<link>https://centerofci.github.io/The-Chelsea-Project-Site/</link>
+	<atom:link href="https://thechelseaproject.org/author/thechelseaproject_mym2nz/feed/" rel="self" type="application/rss+xml" />
+	<link>https://thechelseaproject.org/</link>
 	<description>Building a resilient and self-sufficient public health paradigm via block-level sensing and interventions</description>
 	<lastBuildDate>Tue, 09 Feb 2021 14:15:41 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -18,23 +18,23 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.2</generator>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
 	<item>
 		<title>Test Post</title>
-		<link>https://centerofci.github.io/The-Chelsea-Project-Site/2021/02/06/hello-world/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=hello-world</link>
-					<comments>https://centerofci.github.io/The-Chelsea-Project-Site/2021/02/06/hello-world/#respond</comments>
+		<link>https://thechelseaproject.org/2021/02/06/hello-world/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=hello-world</link>
+					<comments>https://thechelseaproject.org/2021/02/06/hello-world/#respond</comments>
 		
 		<dc:creator><![CDATA[The Chelsea Project]]></dc:creator>
 		<pubDate>Sat, 06 Feb 2021 04:16:15 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://centerofci.github.io/The-Chelsea-Project-Site/?p=1</guid>
+		<guid isPermaLink="false">https://thechelseaproject.org/?p=1</guid>
 
 					<description><![CDATA[Content added on a regular basis&#8230;.]]></description>
 										<content:encoded><![CDATA[
 <p>Content added on a regular basis&#8230;.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://centerofci.github.io/The-Chelsea-Project-Site/2021/02/06/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://thechelseaproject.org/2021/02/06/hello-world/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
